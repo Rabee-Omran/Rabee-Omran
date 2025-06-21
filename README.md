@@ -1,21 +1,35 @@
-### Hi there, I'm Rabee!👋
+### Hi there, I'm Rabee! 👋 
 
-![GitHub followers](https://img.shields.io/github/followers/Rabee-Omran?label=Follow&style=social)  ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC6Fkc7Ex00c4hki-MsjbpBQ?label=Rabee%20Omran&style=social)
-[![Linkedin:Rabee Omran](https://img.shields.io/badge/Rabee_Omran-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rabeeomran/)](https://www.linkedin.com/in/rabeeomran/)  [![Facebook:Rabee Omran](https://img.shields.io/badge/Rabee_Omran-blue?style=flat-square&logo=Facebook&logoColor=white&color=blue&link=https://www.facebook.com/RabeeOmran2/)](https://www.facebook.com/RabeeOmran2/)  
+[![GitHub followers](https://img.shields.io/github/followers/Rabee-Omran?label=Follow&style=social)](https://github.com/Rabee-Omran)  
+[![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UC6Fkc7Ex00c4hki-MsjbpBQ?label=Subscribe&style=social)](https://youtube.com/@RabeeOmran)  
+[![LinkedIn](https://img.shields.io/badge/-Rabee_Omran-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/rabeeomran)  
+[![Facebook](https://img.shields.io/badge/-Rabee_Omran-blue?style=flat&logo=Facebook&logoColor=white)](https://facebook.com/RabeeOmran2)  
 
+---
 
-**About me:** 
+### **About Me**  
 
-Hi, I'm Rabee Omran, a Software Engineer and Flutter developer from Syria. Enthusiast of the best Mobile and Web development Technologies. Passionate about writting code and drinking coffee.
+💻 **Software Engineer** | 📱 **Flutter Developer** | ☕ **Coffee Enthusiast**  
 
--  I love writing code, reading about it, and teaching it
--  I’m looking to collaborate and become more participatory in the community
--  Ask me about anything [here](https://github.com/Rabee-Omran/Rabee-Omran/issues)
+I'm a passionate developer from Syria who loves:  
+- Building beautiful mobile & web applications  
+- Exploring cutting-edge technologies  
+- Writing clean, efficient code  
+- Sharing knowledge with the community  
 
-**💖 Support Me!** 
-If you enjoy my work, fuel my coding with crypto (**no fees!**):  
+🔗 **Let's connect:**  
+- 💬 Ask me anything [here](https://github.com/Rabee-Omran/Rabee-Omran/issues)  
+- 🤝 Open to collaborations and open-source contributions  
 
-**Binance Pay ID:** `1121945717` *(BTC/ETH/USDT accepted)*  
+---
 
-Every bit helps! 🚀  
+### **💝 Support My Work**  
+Enjoy my projects? Help me create more!  
 
+💸 **Binance Pay ID:** `1121945717` *(Supports BTC/ETH/USDT - zero fees!)*  
+
+⚡ *Every contribution fuels my coding journey!*  
+
+---
+
+**Thanks for visiting!** ✨  
