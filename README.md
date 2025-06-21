@@ -1,10 +1,6 @@
 ### Hi there, I'm Rabee! 👋 
 
-[![GitHub followers](https://img.shields.io/github/followers/Rabee-Omran?label=Follow&style=social)](https://github.com/Rabee-Omran)  
-[![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UC6Fkc7Ex00c4hki-MsjbpBQ?label=Subscribe&style=social)](https://youtube.com/@RabeeOmran)  
-[![LinkedIn](https://img.shields.io/badge/-Rabee_Omran-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/rabeeomran)  
-[![Facebook](https://img.shields.io/badge/-Rabee_Omran-blue?style=flat&logo=Facebook&logoColor=white)](https://facebook.com/RabeeOmran2)  
-
+[![GitHub followers](https://img.shields.io/github/followers/Rabee-Omran?label=Follow&style=social)](https://github.com/Rabee-Omran) [![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UC6Fkc7Ex00c4hki-MsjbpBQ?label=Subscribe&style=social)](https://youtube.com/@RabeeOmran) [![LinkedIn](https://img.shields.io/badge/-Rabee_Omran-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/rabeeomran) [![Facebook](https://img.shields.io/badge/-Rabee_Omran-blue?style=flat&logo=Facebook&logoColor=white)](https://facebook.com/RabeeOmran2)
 ---
 
 ### **About Me**  
