@@ -12,7 +12,7 @@ Hi, I'm Rabee Omran, a Software Engineer and Flutter developer from Syria. Enthu
 -  I’m looking to collaborate and become more participatory in the community
 -  Ask me about anything [here](https://github.com/Rabee-Omran/Rabee-Omran/issues)
 
-**  💖 Support Me! ** 
+**💖 Support Me!** 
 If you enjoy my work, fuel my coding with crypto (**no fees!**):  
 
 **Binance Pay ID:** `1121945717` *(BTC/ETH/USDT accepted)*  
