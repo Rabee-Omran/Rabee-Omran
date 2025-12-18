@@ -5,7 +5,7 @@
 
 ### **About Me**  
 
-💻 **Software Engineer** | 📱 **Flutter Developer** | ☕ **Coffee Enthusiast**  
+💻 **Software Engineer** | 📱 **Senior Flutter Developer** | ☕ **Coffee Enthusiast**  
 
 I'm a passionate developer from Syria who loves:  
 - Building beautiful mobile & web applications  
